@@ -1,7 +1,10 @@
 # python-api-challenge
 
-Background
+Part I - WeatherPy
 
-Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
+I created a Python script to visualize the weather of 500 cities across the world of varying distance from the equator. To accomplish this, I utilized simple Python library and OpenWeatherMap API
 
-Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
+Part II - VacationPy
+
+Now I used my skills in working with weather data to plan future vacations. I used jupyter-gmaps and the Google Places API.
+
